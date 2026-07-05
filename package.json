@@ -1,0 +1,9 @@
+{
+  "name": "shamibooks-ai-gemini",
+  "version": "1.0.0",
+  "description": "Serverless backend connecting Shamibooks AI Mode to Google Gemini",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
